@@ -9,13 +9,6 @@
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ingmarvanrheenen&amp;theme=onedark&amp;row=1&amp;column=6"
-    alt="GitHub Trophies"
-  />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ingmarvanrheenen&color=green" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ingmarvanrheenen?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/last-commit/ingmarvanrheenen/ingmarvanrheenen" alt="Last Commit"/>
