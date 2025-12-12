@@ -8,9 +8,12 @@
   </div>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ingmarvanrheenen&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ingmarvanrheenen&amp;theme=onedark&amp;row=1&amp;column=6"
+    alt="GitHub Trophies"
+  />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ingmarvanrheenen&color=green" alt="Profile Views"/>
