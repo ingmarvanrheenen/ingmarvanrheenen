@@ -4,7 +4,7 @@
     <p> 🔭 I'm currently working on [Stem Wijzer] - A political parliament election app in C# </p>
     <p> 🌱 I'm learning **TypeScript**, **React**, **Tailwind CSS**, **Docker**, **PHP** and **C#** </p>
     <p> 🎓 Software Development student passionate about creating intuitive user experiences </p>
-    <p> ⚡ Fun fact: I can solve a Rubik's cube in under 3 minutes </p>
+    <p> ⚡ Fun fact: I can solve a Rubik's cube in under 3 minutes and a 4x4 Rubik's cube in a day </p>
   </div>
 </div>
 
